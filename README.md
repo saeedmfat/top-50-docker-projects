@@ -108,24 +108,3 @@ We welcome contributions! Here's how you can help:
   <h3>💡 Dive in, experiment, and happy containerizing! 🐳</h3>
   <p>⭐ <strong>Don't forget to star the repo if you find it useful!</strong> ⭐</p>
 </div>
-
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 20px 0;
-  }
-  th, td {
-    padding: 12px;
-    text-align: left;
-    border-bottom: 1px solid #ddd;
-  }
-  th {
-    color : black
-    background-color: #3aa5a8ff;
-  }
-  tr:hover {
-    color : blue
-    background-color: #030303ff;
-  }
-</style>
