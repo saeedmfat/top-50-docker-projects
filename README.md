@@ -42,7 +42,10 @@ docker run -p 8080:80 --name nginx-site -v ./content:/usr/share/nginx/html:ro ng
 ```
 
 ### 3. [Python Script Scheduler](https://github.com/saeedmfat/Python-Script-Scheduler-by-using-docker-fast-api-monitoring-)
-![Cron](https://img.shields.io/badge/Cron-vixie-red)
+[![Built with Python](https://img.shields.io/badge/Built%20with-Python%203.12-%233776AB?logo=python)](https://www.python.org/)
+[![Powered by FastAPI](https://img.shields.io/badge/Powered%20by-FastAPI-%230099FF?logo=fastapi)](https://fastapi.tiangolo.com/)
+[![Uses APScheduler](https://img.shields.io/badge/Uses-APScheduler-%23000000)](https://apscheduler.readthedocs.io/)
+[![Containerized with Docker](https://img.shields.io/badge/Containerized%20with-Docker-%232496ED?logo=docker)](https://www.docker.com/)
 ![Monitoring](https://img.shields.io/badge/Prometheus-Enabled-blue)
 - **Advanced Features**:
   - Log rotation
