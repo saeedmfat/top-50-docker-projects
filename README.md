@@ -85,6 +85,3 @@ services:
     <img src="https://img.shields.io/github/stars/saeedmfat/top-50-docker-projects?style=social" alt="Star">
   </a>
 </div>
-8. **Added quick start commands** for each project
-
-The version now better showcases your projects while maintaining professional Docker ecosystem standards.
