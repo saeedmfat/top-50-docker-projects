@@ -70,7 +70,7 @@ services:
 [![License](https://img.shields.io/badge/license-MIT-purple.svg)](LICENSE)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/saeedmfat/dockerized-destiny-matrix-chart-app)
 
-### People have always wondered: is there predetermination in their lives or are they able to control their own faith? Is it possible to escape from negative influences and change one's life? Numerology using the Matrix Of Destiny method provides answers to these questions.
+People have always wondered: is there predetermination in their lives or are they able to control their own faith? Is it possible to escape from negative influences and change one's life? Numerology using the Matrix Of Destiny method provides answers to these questions.
 
 ---
 
