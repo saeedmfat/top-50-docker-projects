@@ -62,7 +62,7 @@ services:
           memory: 256M
 ```
 
-### 4. [Destiny Matrix Chart App](https://github.com/saeedmfat/dockerized-destiny-matrix-chart-app) 🌌
+### 4. [Destiny Matrix Chart App](https://github.com/saeedmfat/dockerized-destiny-matrix-chart-app)
 
 [![Python](https://img.shields.io/badge/python-3.12+-blue.svg)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109.0-green.svg)](https://fastapi.tiangolo.com)
