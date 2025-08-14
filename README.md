@@ -62,6 +62,16 @@ services:
           memory: 256M
 ```
 
+### 4. Destiny Matrix Chart App 🌌
+
+[![Python](https://img.shields.io/badge/python-3.12+-blue.svg)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.109.0-green.svg)](https://fastapi.tiangolo.com)
+[![Docker](https://img.shields.io/badge/docker-3.8-yellow.svg)](https://docker.com)
+[![License](https://img.shields.io/badge/license-MIT-purple.svg)](LICENSE)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/saeedmfat/dockerized-destiny-matrix-chart-app)
+
+### People have always wondered: is there predetermination in their lives or are they able to control their own faith? Is it possible to escape from negative influences and change one's life? Numerology using the Matrix Of Destiny method provides answers to these questions.
+
 ---
 
 <div align="center">
