@@ -72,7 +72,10 @@ services:
 
 People have always wondered: is there predetermination in their lives or are they able to control their own faith? Is it possible to escape from negative influences and change one's life? Numerology using the Matrix Of Destiny method provides answers to these questions.
 
+
 ---
+
+
 
 <div align="center">
   <h3>🐳 Ready to containerize like a pro?</h3>
